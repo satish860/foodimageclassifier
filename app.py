@@ -1,5 +1,6 @@
 import streamlit as st
 from PIL import Image
+
 import classify
 
 st.title("Food-101 Classification.")
